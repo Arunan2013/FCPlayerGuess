@@ -29,8 +29,8 @@ def main():
     columns = st.columns(2)
     
     with columns[0]:
-        st.title("Welcome to Arunan's Place.\n### Here we guess soccer players' name.")
-        st.header("by the way suii")
+        st.title("Welcome soccer.\n### Here we guess soccer players' name.")
+        
     with columns[1]:
         st.image("image.png")
 
