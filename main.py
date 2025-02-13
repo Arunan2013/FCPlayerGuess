@@ -30,7 +30,7 @@ def main():
     
     with columns[0]:
         st.title("Welcome to Arunan's Place.\n### Here we guess soccer players' name.")
-        st.header("No... i'm not a soccer player, i'm just a kiddo.")
+        st.header("by the way suii")
     with columns[1]:
         st.image("image.png")
 
